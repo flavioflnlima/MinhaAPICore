@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TPCIaiLG9cz703oeJIUxYxbtfxOPCFG2mse0qSqLaveHXlg3sOa82EEMijm74GP40DjVPRoJMfvvtGxC5enuBw==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\dotNet\\desenvolvedorIO\\MinhaAPICore\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Squadra\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\Squadra\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
