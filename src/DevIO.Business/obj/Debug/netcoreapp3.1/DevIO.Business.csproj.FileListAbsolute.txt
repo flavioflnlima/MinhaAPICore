@@ -1,8 +1,0 @@
-C:\Dev\dotNet\desenvolvedorIO\MinhaAPICore\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.deps.json
-C:\Dev\dotNet\desenvolvedorIO\MinhaAPICore\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.dll
-C:\Dev\dotNet\desenvolvedorIO\MinhaAPICore\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
-C:\Dev\dotNet\desenvolvedorIO\MinhaAPICore\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfoInputs.cache
-C:\Dev\dotNet\desenvolvedorIO\MinhaAPICore\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfo.cs
-C:\Dev\dotNet\desenvolvedorIO\MinhaAPICore\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csproj.CoreCompileInputs.cache
-C:\Dev\dotNet\desenvolvedorIO\MinhaAPICore\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.dll
-C:\Dev\dotNet\desenvolvedorIO\MinhaAPICore\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.pdb
